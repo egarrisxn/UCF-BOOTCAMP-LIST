@@ -1,0 +1,120 @@
+* {
+  font-family: "PT Serif", serif;
+}
+
+body {
+  min-height: 100vh;
+  margin: auto;
+  background-color: #f0f0f0;
+}
+
+h1 {
+  font-family: "Ultra", serif;
+  background-color: #2a2a2a;
+  color: #ffffff;
+  padding: 12px;
+  margin-bottom: 4px;
+}
+
+.header-name {
+  color: #2a2a2a;
+}
+
+main {
+  background-color: #f0f0f0;
+  width: 100%;
+  overflow-x: hidden;
+}
+
+.homepage-main {
+  margin-top: 32px;
+}
+
+.post-main {
+  margin-top: 32px;
+}
+
+/* Navbar */
+
+.nav-body {
+  padding: 0 12px;
+  background-color: #111111;
+}
+
+.nav-links {
+  display: flex;
+  padding: 8px;
+  gap: 12px;
+  flex-direction: row;
+  justify-content: end;
+  align-items: center;
+}
+
+a {
+  color: #004b97;
+  text-decoration: none;
+}
+
+logout-btn {
+  background-color: #dddddd;
+  border-radius: 4px;
+}
+
+/* Button */
+
+.btn {
+  background-color: #004b97;
+  border: none;
+}
+
+.btn:hover {
+  background-color: #0264c7;
+}
+
+#create {
+  margin-bottom: 40px;
+}
+
+/* Card */
+
+.card-header {
+  background-color: #ffffff;
+}
+
+.card-body {
+  background-color: #f8f9fa;
+}
+
+.card {
+  background-color: #ffffff;
+  padding: 12px;
+}
+
+.card:hover {
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  transform: scale(1.02);
+  transition: all 0.2s ease-out;
+}
+
+.post-comments {
+  background-color: #2a2a2aea;
+  color: #ffffff;
+}
+
+#auth-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+}
+
+#signup,
+#login {
+  text-align: end;
+}
+
+hr {
+  width: 100%;
+  margin: 12px 0;
+}

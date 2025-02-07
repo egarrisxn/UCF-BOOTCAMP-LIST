@@ -1,0 +1,122 @@
+[
+  {
+    "comment_body": "This topic seems intriguing!",
+    "date_created": "April 5, 2023",
+    "user_id": 2,
+    "post_id": 1
+  },
+  {
+    "comment_body": "I disagree with the author's point of view.",
+    "date_created": "April 7, 2023",
+    "user_id": 4,
+    "post_id": 1
+  },
+  {
+    "comment_body": "Interesting perspective, I hadn't considered that before.",
+    "date_created": "April 10, 2023",
+    "user_id": 1,
+    "post_id": 2
+  },
+  {
+    "comment_body": "I appreciate the insight shared here.",
+    "date_created": "April 12, 2023",
+    "user_id": 3,
+    "post_id": 2
+  },
+  {
+    "comment_body": "This made me laugh out loud!",
+    "date_created": "April 15, 2023",
+    "user_id": 2,
+    "post_id": 3
+  },
+  {
+    "comment_body": "I'm skeptical about the claims made in this article.",
+    "date_created": "April 17, 2023",
+    "user_id": 1,
+    "post_id": 3
+  },
+  {
+    "comment_body": "I found this article to be thought-provoking.",
+    "date_created": "April 20, 2023",
+    "user_id": 3,
+    "post_id": 4
+  },
+  {
+    "comment_body": "I completely agree with the author's analysis.",
+    "date_created": "April 22, 2023",
+    "user_id": 4,
+    "post_id": 4
+  },
+  {
+    "comment_body": "This topic resonates with me deeply.",
+    "date_created": "April 24, 2023",
+    "user_id": 1,
+    "post_id": 5
+  },
+  {
+    "comment_body": "I'm inspired to take action after reading this.",
+    "date_created": "April 26, 2023",
+    "user_id": 2,
+    "post_id": 5
+  },
+  {
+    "comment_body": "I have some reservations about the conclusions drawn here.",
+    "date_created": "April 28, 2023",
+    "user_id": 3,
+    "post_id": 6
+  },
+  {
+    "comment_body": "I appreciate the balanced perspective presented in this article.",
+    "date_created": "April 30, 2023",
+    "user_id": 4,
+    "post_id": 6
+  },
+  {
+    "comment_body": "I'm curious to learn more about this topic.",
+    "date_created": "May 2, 2023",
+    "user_id": 1,
+    "post_id": 7
+  },
+  {
+    "comment_body": "This article challenged my assumptions.",
+    "date_created": "May 4, 2023",
+    "user_id": 2,
+    "post_id": 7
+  },
+  {
+    "comment_body": "I find myself reflecting on this long after reading it.",
+    "date_created": "May 6, 2023",
+    "user_id": 3,
+    "post_id": 8
+  },
+  {
+    "comment_body": "I'm eager to share this with my friends.",
+    "date_created": "May 8, 2023",
+    "user_id": 4,
+    "post_id": 8
+  },
+  {
+    "comment_body": "I resonate with the author's personal anecdotes.",
+    "date_created": "May 10, 2023",
+    "user_id": 1,
+    "post_id": 9
+  },
+  {
+    "comment_body": "I have some questions about the methodology used in this research.",
+    "date_created": "May 12, 2023",
+    "user_id": 2,
+    "post_id": 9
+  },
+  {
+    "comment_body": "I appreciate the author's efforts to make this complex topic accessible.",
+    "date_created": "May 14, 2023",
+    "user_id": 3,
+    "post_id": 1
+  },
+  {
+    "comment_body": "This article challenges conventional wisdom in a refreshing way.",
+    "date_created": "May 16, 2023",
+    "user_id": 4,
+    "post_id": 2
+  }
+]

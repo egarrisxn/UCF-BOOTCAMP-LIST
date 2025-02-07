@@ -1,0 +1,28 @@
+{
+  "name": "sql-employee-tracker",
+  "version": "1.0.0",
+  "description": "Command-line application that allows the user to manage a company's employee database, using Node.js, Inquirer, and MySQL.",
+  "type": "module",
+  "author": "Ethan G",
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "mysql",
+    "mysql2",
+    "inquirer",
+    "node.js",
+    "javascript",
+    "cli",
+    "command-line",
+    "employee-tracker"
+  ],
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "dotenv": "^16.4.5",
+    "inquirer": "^9.2.12",
+    "mysql2": "^3.9.4"
+  }
+}

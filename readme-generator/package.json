@@ -1,0 +1,21 @@
+{
+  "name": "readme-generator",
+  "version": "1.0.0",
+  "description": "A command-line application that dynamically generates a README.md file.",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "Ethan G",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "inquirer",
+    "markdown",
+    "javascript",
+    "nodejs",
+    "readme-generator"
+  ],
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
